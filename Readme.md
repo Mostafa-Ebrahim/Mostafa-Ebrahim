@@ -1,6 +1,6 @@
 ## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### I'm Mostafa Ebrahim, a computer engineering student. Interested in data science field !
+### I'm Mostafa Ebrahim, a computer engineering student. I'm interested in data science field !
 - 🌱 I’m currently learning everything 🤣
 - 🎯 I’m looking forward to change my world
 - ⚡ Fun fact: I love to make graphic designs and draw mandalas
