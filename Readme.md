@@ -1,9 +1,9 @@
 ## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### I'm Mostafa Ebrahim, a computer engineering student. I'm interested in data science field !
+### I'm Mostafa Ebrahim, a computer engineering student who interested in data science field !
 - 🌱 I’m currently learning everything 🤣
 - 🎯 I’m looking forward to change my world
-- ⚡ Fun fact: I love to make graphic designs and draw mandalas
+- ⚡ Fun fact: I love making graphic designs and drawing mandalas
 <!-- - 🥅 2020 Goals:  -->
 
 ### Reach me:
@@ -11,7 +11,7 @@
 [<img align="left" alt="Mostafa Ebrahim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Mostafa Ebrahim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mostafa Ebrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mostafa Ebrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Mostafa Ebrahim | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br />
 
