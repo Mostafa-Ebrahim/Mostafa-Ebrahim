@@ -1,10 +1,9 @@
 ### Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-#### I'm a computer engineering student | ML Enthusiast !
-
 <img title="Mostafa's github stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Ebrahim&count_private=true&hide=issues&icon_color=871489&title_color=002a6e&bg_color=DEG,ffffff,e8ecfd&show_icons=true"
 />
 
+#### I'm a computer engineering student | ML Enthusiast !
 - 🌱 I’m currently learning everything 🤣
 - 🎯 I’m looking forward to change my world
 - ⚡ Fun fact: I love making graphic designs and drawing mandalas
