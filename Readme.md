@@ -16,7 +16,7 @@
 <br />
 
 ---
-![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Ebrahim&count_private=true)
+![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Ebrahim&count_private=true&hide=issues&icon_color=871489&title_color=002a6e&bg_color=DEG,ffffff,e8ecfd&show_icons=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ebrahim&layout=compact) -->
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mostafa-Ebrahim.Mostafa-Ebrahim) -->
