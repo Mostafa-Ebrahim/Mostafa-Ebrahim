@@ -6,8 +6,7 @@
 - ⚡ Fun fact: I love making graphic designs and drawing mandalas
 <!-- - 🥅 2020 Goals:  -->
 
-### Reach me:
-
+#### Reach me:
 [<img align="left" alt="Mostafa Ebrahim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Mostafa Ebrahim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mostafa Ebrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
