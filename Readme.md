@@ -2,7 +2,7 @@
 
 #### I'm a computer engineering student | ML Enthusiast !
 - 🌱 I’m currently learning ML 🤖
-- 🎯 I’m looking forward to change my world
+- 🎯 I’m looking forward to change my world 🌍
 - ⚡ Fun fact: I love making graphic designs, drawing mandalas and cooking 👨🏻‍🍳
 <!-- - 🥅 2020 Goals:  -->
 
