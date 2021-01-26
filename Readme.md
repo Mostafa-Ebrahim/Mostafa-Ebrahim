@@ -1,9 +1,9 @@
 ## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 #### I'm a computer engineering student | ML Enthusiast !
-- 🌱 I’m currently learning ML 🤖
-- 🎯 I’m looking forward to change my world 🌍
-- ⚡ Fun fact: I love making graphic designs, drawing mandalas and cooking 👨🏻‍🍳
+- 🌱 I’m currently learning ML 
+- 🎯 I’m looking forward to change my world 
+- ⚡ Fun fact: I love making graphic designs, drawing mandalas and cooking 
 <!-- - 🥅 2020 Goals:  -->
 
 #### Reach me:
