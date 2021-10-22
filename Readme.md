@@ -22,7 +22,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ebrahim&layout=compact) -->
 
 
-[linkedin]: https://www.linkedin.com/in/mostafa2299/
+[linkedin]: https://www.linkedin.com/in/mostafa--ebrahim/
 [kaggle]: https://www.kaggle.com/mostafaebrahim
 [codeforces]: https://codeforces.com/profile/Mostafa_Ebrahim
 [leetcode]: https://leetcode.com/Mostafa-Ebrahim/
