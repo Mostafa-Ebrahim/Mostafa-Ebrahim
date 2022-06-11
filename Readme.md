@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
+## Hello World 👋
 
 #### I'm a software engineer | ML Enthusiast!
 - 🌱 I’m currently learning ML 
