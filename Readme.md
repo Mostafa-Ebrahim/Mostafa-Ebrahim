@@ -1,9 +1,9 @@
 ## Hello World 👋
 
 #### I'm a software engineer
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Backend Engineering
 - 🎯 I’m looking forward to changing my world using technology and art
-- ⚡ Fun fact: I love making graphic designs 
+- ⚡ Fun fact: I love making graphic designs
 
 
 #### Reach me:
