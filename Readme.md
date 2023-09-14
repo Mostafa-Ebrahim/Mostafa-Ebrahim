@@ -9,9 +9,9 @@
 #### Reach me:
 [<img align="left" alt="Mostafa Ebrahim | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mostafa Ebrahim | leetcode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="Mostafa Ebrahim | CodeForces" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="Mostafa Ebrahim | kaggle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="Mostafa Ebrahim | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="Mostafa Ebrahim | CodeForces" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces] -->
+<!-- [<img align="left" alt="Mostafa Ebrahim | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 
 <br />
@@ -26,6 +26,6 @@
 
 [linkedin]: https://www.linkedin.com/in/mostafa--ebrahim/
 [kaggle]: https://www.kaggle.com/mostafaebrahim
-[twitter]: https://twitter.com/MostafaEbrahm
+[twitter]: https://twitter.com/Mostafa__brahim
 [codeforces]: https://codeforces.com/profile/Mostafa_Ebrahim
 [leetcode]: https://leetcode.com/Mostafa-Ebrahim/
