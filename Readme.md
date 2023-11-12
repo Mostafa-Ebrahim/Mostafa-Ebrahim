@@ -1,17 +1,16 @@
 ## Hello World 👋
 
-#### I'm a software engineer
-- 🌱 I’m currently learning Backend Engineering
-- 🎯 I’m looking forward to changing my world using technology and art
-- ⚡ Fun fact: I love making graphic designs
+#### I'm a Software Engineer
+- 🌱 Interested in working on challenging problems in Web Development and Machine Learning.
+- 🎯 Seeking a backend engineering position where I can utilize my skills and knowledge to build and maintain scalable and reliable web apps.
 
 
 #### Reach me:
 [<img align="left" alt="Mostafa Ebrahim | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mostafa Ebrahim | leetcode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="Mostafa Ebrahim | kaggle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="Mostafa Ebrahim | Leetcode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Mostafa Ebrahim | Kaggle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 <!-- [<img align="left" alt="Mostafa Ebrahim | CodeForces" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces] -->
-<!-- [<img align="left" alt="Mostafa Ebrahim | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="Mostafa Ebrahim | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 
 <br />
