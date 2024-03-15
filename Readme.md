@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer
 - 🌱 Interested in working on challenging problems in Web Development and Machine Learning.
-- 🎯 Seeking a backend engineering position where I can utilize my skills and knowledge to build and maintain scalable and reliable web apps.
+- 🎯 Seeking a software engineering position where I can utilize my skills and knowledge to build and maintain scalable and reliable web apps.
 
 
 #### Reach me:
